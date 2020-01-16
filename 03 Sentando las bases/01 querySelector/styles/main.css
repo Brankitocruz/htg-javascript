@@ -75,3 +75,8 @@ main {
   border-width: 5px;
 
 }
+
+
+.oculto{
+  display: none
+}
